@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp1\auth-demo\resources\views/admin/index.blade.php ENDPATH**/ ?>
